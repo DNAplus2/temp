@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Robert E LaFond</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background-color: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 760px;
+      padding: 4rem 1.5rem;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 500;
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    .subtle {
+      color: #4b5563;
+      font-size: 0.95rem;
+    }
+
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Robert E LaFond</h1>
+    <p class="subtle">
+      Service‑Disabled Veteran‑Owned Small Business (SDVOSB)
+    </p>
+
+    <h2>Overview</h2>
+    <p>
+      Commercial and government work is undertaken through appropriate contracting entities, 
+      including DNA+ LLC (New Hampshire small business).
+    </p>
+
+    <h2>DNA+</h2>
+    <p>
+      DNA+ is a governance‑centric architectural framework focused on improving clarity, 
+      accountability, and coordination across complex organizations and systems. It addresses 
+      how people, processes, and digital assets are defined, linked, and managed over time, 
+      with particular emphasis on configuration, effectivity, and responsibility across 
+      organizational boundaries.
+
+      The architecture is designed to complement existing tools and platforms by providing 
+      a lightweight, disciplined approach to ownership, authority, and change across 
+      operational environments. DNA+ is applicable to regulated and mission‑critical contexts 
+      where traceability and controlled adaptation are required.
+    </p>
+    <p>
+      The framework is designed to complement existing tools and platforms by
+      providing a lightweight, disciplined approach to ownership, responsibility,
+      and change across organizational and operational boundaries. DNA+ is
+      applicable to regulated environments, mission‑critical operations, and
+      enterprises requiring strong traceability and controlled adaptation.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      <a href="mailto:contact@rlafond.com">contact@rlafond.com</a>
+    </p>
+
+    <div class="footer">
+      © Robert E. LaFond. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
